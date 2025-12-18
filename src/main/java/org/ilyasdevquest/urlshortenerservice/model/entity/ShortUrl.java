@@ -18,5 +18,8 @@ public class ShortUrl {
     private String originalUrl;
 
     @Column(nullable = false, unique = true)
-    private String urlCode;
+    private String code;
+
+    @Column(nullable = false, unique = true)
+    private String hash;
 }
