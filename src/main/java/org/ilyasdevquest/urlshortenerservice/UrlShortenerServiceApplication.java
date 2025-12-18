@@ -1,4 +1,4 @@
-package org.IlyasDev_Quest.url_shortener_service;
+package org.ilyasdevquest.urlshortenerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

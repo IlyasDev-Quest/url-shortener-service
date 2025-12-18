@@ -1,4 +1,4 @@
-package org.IlyasDev_Quest.url_shortener_service;
+package org.ilyasdevquest.urlshortenerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
